@@ -10,5 +10,6 @@ package com.scz;
 public class Test {
         public static void main(String[] args) {
 			String aString="啊撒开了多久";
+			String sdjskString="的";
 		}   
 }
