@@ -14,5 +14,6 @@ public class Test {
 			String sdadfdsadaString="大萨达阿斯蒂芬发送到";
             String dsadsa="困死了较大喀什as";
             int i=1;
+            int l=6;
 		}   
 }
