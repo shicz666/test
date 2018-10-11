@@ -9,9 +9,10 @@ package com.scz;
  */
 public class Test {
         public static void main(String[] args) {
-			String aString="°¡Èö¿ªÁË¶à¾Ã";
-			String sdjskString="µÄ";
-			String sdadfdsadaString="´óÈø´ï°¢Ë¹µÙ·Ò·¢ËÍµ½";
-            String sdsdsadsa="À§ËÀÁË½Ï´ó¿¦Ê²as";
+			String aString="å•Šæ’’å¼€äº†å¤šä¹…";
+			String sdjskString="çš„";
+			String sdadfdsadaString="å¤§è¨è¾¾é˜¿æ–¯è’‚èŠ¬å‘é€åˆ°";
+                        String sdsdsadsa="å›°æ­»äº†è¾ƒå¤§å–€ä»€as";
+		        String sakdjsak="å“ˆå“ˆå“ˆå“ˆå“ˆ";
 		}   
 }
