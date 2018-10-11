@@ -12,8 +12,8 @@ public class Test {
 			String aString="啊撒开了多久";
 			String sdjskString="的";
 			String sdadfdsadaString="大萨达阿斯蒂芬发送到";
-            String dsadsa="困死了较大喀什as";
-            int i=1;
-            int l=6;
+            String dsadsa="困死了较大喀什as1111";
+            int i=1111;
+            int l=6111;
 		}   
 }
