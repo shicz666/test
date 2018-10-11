@@ -13,5 +13,6 @@ public class Test {
 			String sdjskString="的";
 			String sdadfdsadaString="大萨达阿斯蒂芬发送到";
             String dsadsa="困死了较大喀什as";
+            int i=1;
 		}   
 }
