@@ -12,6 +12,7 @@ public class Test {
 			String aString="啊撒开了多久";
 			String sdjskString="的";
 			String sdadfdsadaString="大萨达阿斯蒂芬发送到";
+	    String lll="小鑫鑫";
             String dsadsa="困死了较大喀什as1111";
             int i=1111;
             int l=6111;
